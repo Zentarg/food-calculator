@@ -1,0 +1,1235 @@
+[
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 1,
+   "GroupNameDK": "LST-GRUPPER",
+   "GroupNameUK": "DANSDA-GROUPS",
+   "Hieraky": 1
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 2,
+   "GroupNameDK": "Konsummælk og mælkekonserves",
+   "GroupNameUK": "Milk and milk preserves",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 9,
+   "GroupNameDK": "Ost og osteprodukter",
+   "GroupNameUK": "Cheese and cheese products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 18,
+   "GroupNameDK": "Is ",
+   "GroupNameUK": "Ice cream ",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 26,
+   "GroupNameDK": "Korn og stivelsesprodukter",
+   "GroupNameUK": "Cereals and starch products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 37,
+   "GroupNameDK": "Grøntsager og grøntsagsprodukter",
+   "GroupNameUK": "Vegetables and vegetable products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 47,
+   "GroupNameDK": "Frugt, bær og produkter heraf",
+   "GroupNameUK": "Fruit, berries and their products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 56,
+   "GroupNameDK": "Kød og kødprodukter",
+   "GroupNameUK": "Meat and meat products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 68,
+   "GroupNameDK": "Fisk, vandlevende dyr og produkter heraf",
+   "GroupNameUK": "Fish, quatic animals and their products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 80,
+   "GroupNameDK": "Fjerkræ",
+   "GroupNameUK": "Poultry",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 86,
+   "GroupNameDK": "Æg og æggeprodukter",
+   "GroupNameUK": "Eggs and egg products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 91,
+   "GroupNameDK": "Fedtstoffer og fedtstofprodukter",
+   "GroupNameUK": "Fats and fatty products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 100,
+   "GroupNameDK": "Sukker, honning og sukkervarer",
+   "GroupNameUK": "Sugar, honey and sugar confectionery",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 105,
+   "GroupNameDK": "Drikkevarer",
+   "GroupNameUK": "Beverages",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 118,
+   "GroupNameDK": "Krydderier, ekstrakter o.l.",
+   "GroupNameUK": "Spices and extracts etc.",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 126,
+   "GroupNameDK": "Færdigretter, fastfood og sammensatte fødevarer",
+   "GroupNameUK": " Ready meals, fastfood and composite foods",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 134,
+   "GroupNameDK": "Fødevarer til særlig ernæring",
+   "GroupNameUK": "Foods for particular nutritional uses",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 142,
+   "GroupNameDK": "Andre fødevarer",
+   "GroupNameUK": "Other foods",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 149,
+   "GroupNameDK": "Ragelse & Forureningsdata",
+   "GroupNameUK": "Garbage & Pollution data",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 167,
+   "GroupNameDK": "Alternativer til animalske fødevarer",
+   "GroupNameUK": "Substitutes for animal products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 170,
+   "GroupNameDK": "Bælgplanter og produkter af bælgplanter",
+   "GroupNameUK": "Legumes and legume products",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 1,
+   "ParantFoodGroupNavn": "LST-GRUPPER",
+   "ParantFoodGroupName": "DANSDA-GROUPS",
+   "FoodGroupID": 176,
+   "GroupNameDK": "Nødder og fedtrige frø",
+   "GroupNameUK": "Nuts and high-fat seeds",
+   "Hieraky": 2
+ },
+ {
+   "ParantFoodGroupID": 2,
+   "ParantFoodGroupNavn": "Konsummælk og mælkekonserves",
+   "ParantFoodGroupName": "Milk and milk preserves",
+   "FoodGroupID": 4,
+   "GroupNameDK": "Usyrnede mælkeprodukter",
+   "GroupNameUK": "Unfermented milk products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 2,
+   "ParantFoodGroupNavn": "Konsummælk og mælkekonserves",
+   "ParantFoodGroupName": "Milk and milk preserves",
+   "FoodGroupID": 5,
+   "GroupNameDK": "Syrnede mælkeprodukter",
+   "GroupNameUK": "Fermented milk products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 2,
+   "ParantFoodGroupNavn": "Konsummælk og mælkekonserves",
+   "ParantFoodGroupName": "Milk and milk preserves",
+   "FoodGroupID": 8,
+   "GroupNameDK": "Mælkekonserves og andre mælkeprodukter",
+   "GroupNameUK": "Preserved milk and other milk products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 12,
+   "GroupNameDK": "Blød surmælksost",
+   "GroupNameUK": "Soft sour milk cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 13,
+   "GroupNameDK": "Fast løbeost",
+   "GroupNameUK": "Firm rennet cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 14,
+   "GroupNameDK": "Blød løbeost",
+   "GroupNameUK": "Soft rennet cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 15,
+   "GroupNameDK": "Halvfast løbeost",
+   "GroupNameUK": "Semi-firm rennet cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 16,
+   "GroupNameDK": "Valleost",
+   "GroupNameUK": "Whey cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 9,
+   "ParantFoodGroupNavn": "Ost og osteprodukter",
+   "ParantFoodGroupName": "Cheese and cheese products",
+   "FoodGroupID": 17,
+   "GroupNameDK": "Smelteost",
+   "GroupNameUK": "Processed cheese",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 18,
+   "ParantFoodGroupNavn": "Is ",
+   "ParantFoodGroupName": "Ice cream ",
+   "FoodGroupID": 21,
+   "GroupNameDK": "Fløde- og mælkeis",
+   "GroupNameUK": "Dairy ice cream",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 18,
+   "ParantFoodGroupNavn": "Is ",
+   "ParantFoodGroupName": "Ice cream ",
+   "FoodGroupID": 23,
+   "GroupNameDK": "Sorbet og limonadeis",
+   "GroupNameUK": "Sorbet and ice lolly",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 28,
+   "GroupNameDK": "Korn og gryn",
+   "GroupNameUK": "Grain and groats",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 30,
+   "GroupNameDK": "Mel og klid",
+   "GroupNameUK": "Flour and bran",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 31,
+   "GroupNameDK": "Brød",
+   "GroupNameUK": "Bread",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 34,
+   "GroupNameDK": "Morgenprodukter",
+   "GroupNameUK": "Breakfast products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 35,
+   "GroupNameDK": "Pastaprodukter",
+   "GroupNameUK": "Pasta",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 26,
+   "ParantFoodGroupNavn": "Korn og stivelsesprodukter",
+   "ParantFoodGroupName": "Cereals and starch products",
+   "FoodGroupID": 36,
+   "GroupNameDK": "Stivelsesprodukter",
+   "GroupNameUK": "Starch products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 39,
+   "GroupNameDK": "Rod- og knoldgrøntsager",
+   "GroupNameUK": "Root and tuber vegetables",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 40,
+   "GroupNameDK": "Blad- og stængelgrøntsager",
+   "GroupNameUK": "Leaf and stem vegetables",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 41,
+   "GroupNameDK": "Frugt-grøntsager",
+   "GroupNameUK": "Fruit -Vegetables",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 43,
+   "GroupNameDK": "Svampe",
+   "GroupNameUK": "Mushrooms",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 44,
+   "GroupNameDK": "Krydderurter",
+   "GroupNameUK": "Herbs",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 46,
+   "GroupNameDK": "Grøntsagskonserves",
+   "GroupNameUK": "Canned vegetable products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 187,
+   "GroupNameDK": "Tang og tangprodukter",
+   "GroupNameUK": "Seaweed and seaweed products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 188,
+   "GroupNameDK": "Andre grøntsagsprodukter",
+   "GroupNameUK": "Other vegetable products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 37,
+   "ParantFoodGroupNavn": "Grøntsager og grøntsagsprodukter",
+   "ParantFoodGroupName": "Vegetables and vegetable products",
+   "FoodGroupID": 192,
+   "GroupNameDK": "Frosne grøntsager",
+   "GroupNameUK": "Frozen vegetables",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 49,
+   "GroupNameDK": "Kernefrugt",
+   "GroupNameUK": "Pome fruit",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 50,
+   "GroupNameDK": "Stenfrugt",
+   "GroupNameUK": "Stone fruit",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 51,
+   "GroupNameDK": "Bærfrugt",
+   "GroupNameUK": "Soft fruit",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 52,
+   "GroupNameDK": "Sydfrugt",
+   "GroupNameUK": "Tropical or subtropical fruit",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 55,
+   "GroupNameDK": "Konserves og syltet bær og frugt",
+   "GroupNameUK": "Canned fruit products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 184,
+   "GroupNameDK": "Tørrede frugt og bær produkter",
+   "GroupNameUK": "Dried fruit and berry products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 185,
+   "GroupNameDK": "Marmelade, gele o.l.",
+   "GroupNameUK": "Marmelade, jelly etc.",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 47,
+   "ParantFoodGroupNavn": "Frugt, bær og produkter heraf",
+   "ParantFoodGroupName": "Fruit, berries and their products",
+   "FoodGroupID": 193,
+   "GroupNameDK": "Frossen frugt og bær",
+   "GroupNameUK": "Frozen fruits and berries",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 57,
+   "GroupNameDK": "Andet kød og ferske kødprodukter",
+   "GroupNameUK": "Other meat and fresh meat products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 58,
+   "GroupNameDK": "Oksekød",
+   "GroupNameUK": "Beef",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 59,
+   "GroupNameDK": "Kalvekød",
+   "GroupNameUK": "Veal",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 60,
+   "GroupNameDK": "Svinekød (Gris)",
+   "GroupNameUK": "Pork",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 61,
+   "GroupNameDK": "Fåre- og lammekød",
+   "GroupNameUK": "Sheep and lamb",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 63,
+   "GroupNameDK": "Vildt",
+   "GroupNameUK": "Game",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 64,
+   "GroupNameDK": "Kogt, røget, saltet eller tørret kød",
+   "GroupNameUK": "Boiled, smoked, cured or dried meat",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 65,
+   "GroupNameDK": "Pålægsvarer",
+   "GroupNameUK": "Cold cuts",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 56,
+   "ParantFoodGroupNavn": "Kød og kødprodukter",
+   "ParantFoodGroupName": "Meat and meat products",
+   "FoodGroupID": 66,
+   "GroupNameDK": "Indmad",
+   "GroupNameUK": "Offal",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 69,
+   "GroupNameDK": "Havpattedyr",
+   "GroupNameUK": "Marine mammals",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 70,
+   "GroupNameDK": "Mager fisk",
+   "GroupNameUK": "Lean fish",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 72,
+   "GroupNameDK": "Mellemfed fisk",
+   "GroupNameUK": "Somewhat oily fish",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 73,
+   "GroupNameDK": "Fed fisk",
+   "GroupNameUK": "Oily fish",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 76,
+   "GroupNameDK": "Skaldyr og produkter heraf",
+   "GroupNameUK": "Shellfish and their products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 77,
+   "GroupNameDK": "Bløddyr og produkter heraf",
+   "GroupNameUK": "Mollusks and their products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 78,
+   "GroupNameDK": "Fiskeindmad og rogn",
+   "GroupNameUK": "Offal and fish eggs",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 79,
+   "GroupNameDK": "Fiskeprodukter",
+   "GroupNameUK": "Fish products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 68,
+   "ParantFoodGroupNavn": "Fisk, vandlevende dyr og produkter heraf",
+   "ParantFoodGroupName": "Fish, quatic animals and their products",
+   "FoodGroupID": 183,
+   "GroupNameDK": "Andre produkter af vandlevende dyr",
+   "GroupNameUK": "Other aquatic animal products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 80,
+   "ParantFoodGroupNavn": "Fjerkræ",
+   "ParantFoodGroupName": "Poultry",
+   "FoodGroupID": 81,
+   "GroupNameDK": "Høns og kylling",
+   "GroupNameUK": "Chicken",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 80,
+   "ParantFoodGroupNavn": "Fjerkræ",
+   "ParantFoodGroupName": "Poultry",
+   "FoodGroupID": 82,
+   "GroupNameDK": "Kalkun",
+   "GroupNameUK": "Turkey",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 80,
+   "ParantFoodGroupNavn": "Fjerkræ",
+   "ParantFoodGroupName": "Poultry",
+   "FoodGroupID": 83,
+   "GroupNameDK": "Fuglevildt",
+   "GroupNameUK": "Game birds",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 80,
+   "ParantFoodGroupNavn": "Fjerkræ",
+   "ParantFoodGroupName": "Poultry",
+   "FoodGroupID": 84,
+   "GroupNameDK": "And og gås",
+   "GroupNameUK": "Duck and goose",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 86,
+   "ParantFoodGroupNavn": "Æg og æggeprodukter",
+   "ParantFoodGroupName": "Eggs and egg products",
+   "FoodGroupID": 87,
+   "GroupNameDK": "Friske æg",
+   "GroupNameUK": "Fresh eggs",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 86,
+   "ParantFoodGroupNavn": "Æg og æggeprodukter",
+   "ParantFoodGroupName": "Eggs and egg products",
+   "FoodGroupID": 88,
+   "GroupNameDK": "Flydende æg",
+   "GroupNameUK": "Liquid egg",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 86,
+   "ParantFoodGroupNavn": "Æg og æggeprodukter",
+   "ParantFoodGroupName": "Eggs and egg products",
+   "FoodGroupID": 89,
+   "GroupNameDK": "Tørrede æg",
+   "GroupNameUK": "Dried egg",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 86,
+   "ParantFoodGroupNavn": "Æg og æggeprodukter",
+   "ParantFoodGroupName": "Eggs and egg products",
+   "FoodGroupID": 90,
+   "GroupNameDK": "Ægprodukter",
+   "GroupNameUK": "Egg products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 93,
+   "GroupNameDK": "Animalske fedtstoffer",
+   "GroupNameUK": "Animal fats",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 94,
+   "GroupNameDK": "Vegetabilske fedtstoffer",
+   "GroupNameUK": "Vegetable fats",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 95,
+   "GroupNameDK": "Margariner",
+   "GroupNameUK": "Margarines",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 96,
+   "GroupNameDK": "Smør",
+   "GroupNameUK": "Butter",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 97,
+   "GroupNameDK": "Mayonnaise, remoulade o.l.",
+   "GroupNameUK": "Mayonnaises,  remoulade etc",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 91,
+   "ParantFoodGroupNavn": "Fedtstoffer og fedtstofprodukter",
+   "ParantFoodGroupName": "Fats and fatty products",
+   "FoodGroupID": 98,
+   "GroupNameDK": "Dressings",
+   "GroupNameUK": "Dressings",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 100,
+   "ParantFoodGroupNavn": "Sukker, honning og sukkervarer",
+   "ParantFoodGroupName": "Sugar, honey and sugar confectionery",
+   "FoodGroupID": 101,
+   "GroupNameDK": "Andre sukkervarer",
+   "GroupNameUK": "Other sweet products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 100,
+   "ParantFoodGroupNavn": "Sukker, honning og sukkervarer",
+   "ParantFoodGroupName": "Sugar, honey and sugar confectionery",
+   "FoodGroupID": 102,
+   "GroupNameDK": "Sukker",
+   "GroupNameUK": "Sugar",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 100,
+   "ParantFoodGroupNavn": "Sukker, honning og sukkervarer",
+   "ParantFoodGroupName": "Sugar, honey and sugar confectionery",
+   "FoodGroupID": 103,
+   "GroupNameDK": "Honning",
+   "GroupNameUK": "Honey",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 100,
+   "ParantFoodGroupNavn": "Sukker, honning og sukkervarer",
+   "ParantFoodGroupName": "Sugar, honey and sugar confectionery",
+   "FoodGroupID": 104,
+   "GroupNameDK": "Chokoladevarer o.l.",
+   "GroupNameUK": " Chocolate etc.",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 100,
+   "ParantFoodGroupNavn": "Sukker, honning og sukkervarer",
+   "ParantFoodGroupName": "Sugar, honey and sugar confectionery",
+   "FoodGroupID": 182,
+   "GroupNameDK": "Slik",
+   "GroupNameUK": "Candy",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 45,
+   "GroupNameDK": "Grøntsagsjuice",
+   "GroupNameUK": "Vegetable juices",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 54,
+   "GroupNameDK": "Bærjuice og bærsaft",
+   "GroupNameUK": "Berry juices",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 106,
+   "GroupNameDK": "Andre drikkevarer",
+   "GroupNameUK": "Other beverages",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 107,
+   "GroupNameDK": "Kaffe, te og kakao",
+   "GroupNameUK": "Coffee, tea and cocoa",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 111,
+   "GroupNameDK": "Vand og mineralvand",
+   "GroupNameUK": "Water and carbonated drinks",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 112,
+   "GroupNameDK": "Øl og andre maltdrikke",
+   "GroupNameUK": "Beer and other malt beverages",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 113,
+   "GroupNameDK": "Vine",
+   "GroupNameUK": "Wines",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 114,
+   "GroupNameDK": "Hedvine",
+   "GroupNameUK": "Liqueur wines",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 115,
+   "GroupNameDK": "Likør",
+   "GroupNameUK": "Liqueurs",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 116,
+   "GroupNameDK": "Spiritus",
+   "GroupNameUK": "Spirits",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 117,
+   "GroupNameDK": "Drikkevand",
+   "GroupNameUK": "Drinking water",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 105,
+   "ParantFoodGroupNavn": "Drikkevarer",
+   "ParantFoodGroupName": "Beverages",
+   "FoodGroupID": 186,
+   "GroupNameDK": "Frugtjuice og frugtsaft",
+   "GroupNameUK": "Fruit juice",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 120,
+   "GroupNameDK": "Krydderier",
+   "GroupNameUK": "Spices",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 121,
+   "GroupNameDK": "Salt",
+   "GroupNameUK": "Salt",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 122,
+   "GroupNameDK": "Gær og hævemiddel",
+   "GroupNameUK": "Yeast and baking powder",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 124,
+   "GroupNameDK": "Bouillon, ekstrakter o.l.",
+   "GroupNameUK": "Bouillon, extracts and the like",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 125,
+   "GroupNameDK": "Eddike",
+   "GroupNameUK": "Vinegar",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 118,
+   "ParantFoodGroupNavn": "Krydderier, ekstrakter o.l.",
+   "ParantFoodGroupName": "Spices and extracts etc.",
+   "FoodGroupID": 181,
+   "GroupNameDK": "Sennep, ketchup, pesto o.l.",
+   "GroupNameUK": "Condiments",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 32,
+   "GroupNameDK": "Kiks og småkager",
+   "GroupNameUK": "Biscuits and cookies",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 33,
+   "GroupNameDK": "Kager",
+   "GroupNameUK": "Cakes",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 127,
+   "GroupNameDK": "Andre sammensatte fødevarer",
+   "GroupNameUK": "Other composite foods",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 128,
+   "GroupNameDK": "Færdigretter",
+   "GroupNameUK": "Ready meals",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 130,
+   "GroupNameDK": "Fede salater",
+   "GroupNameUK": "Fatty salads",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 131,
+   "GroupNameDK": "Sandwich, burger, hotdog, pita o.l.",
+   "GroupNameUK": "Sandwich, burger, hotdog etc.",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 132,
+   "GroupNameDK": "Desserter",
+   "GroupNameUK": "Desserts",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 133,
+   "GroupNameDK": "Saucer og sovsepulver",
+   "GroupNameUK": "Sauce and powdered sauce",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 179,
+   "GroupNameDK": "Pizza",
+   "GroupNameUK": "Pizza",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 126,
+   "ParantFoodGroupNavn": "Færdigretter, fastfood og sammensatte fødevarer",
+   "ParantFoodGroupName": " Ready meals, fastfood and composite foods",
+   "FoodGroupID": 180,
+   "GroupNameDK": "Supper og suppeprodukter",
+   "GroupNameUK": "Soup and soup products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 134,
+   "ParantFoodGroupNavn": "Fødevarer til særlig ernæring",
+   "ParantFoodGroupName": "Foods for particular nutritional uses",
+   "FoodGroupID": 6,
+   "GroupNameDK": "Modermælk og modermælkserstatning",
+   "GroupNameUK": "Breast milk and  infant formula",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 134,
+   "ParantFoodGroupNavn": "Fødevarer til særlig ernæring",
+   "ParantFoodGroupName": "Foods for particular nutritional uses",
+   "FoodGroupID": 135,
+   "GroupNameDK": "Spædbørnsmad",
+   "GroupNameUK": "Infant food",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 142,
+   "ParantFoodGroupNavn": "Andre fødevarer",
+   "ParantFoodGroupName": "Other foods",
+   "FoodGroupID": 143,
+   "GroupNameDK": "Chips og snacks",
+   "GroupNameUK": "Potato chip and snacks",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 149,
+   "ParantFoodGroupNavn": "Ragelse & Forureningsdata",
+   "ParantFoodGroupName": "Garbage & Pollution data",
+   "FoodGroupID": 190,
+   "GroupNameDK": "Ragelse",
+   "GroupNameUK": "Garbage",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 167,
+   "ParantFoodGroupNavn": "Alternativer til animalske fødevarer",
+   "ParantFoodGroupName": "Substitutes for animal products",
+   "FoodGroupID": 168,
+   "GroupNameDK": "Plantebaserede drikkevarer",
+   "GroupNameUK": "Plant-based beverages",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 167,
+   "ParantFoodGroupNavn": "Alternativer til animalske fødevarer",
+   "ParantFoodGroupName": "Substitutes for animal products",
+   "FoodGroupID": 169,
+   "GroupNameDK": "Plantebaserede produkter",
+   "GroupNameUK": "Plant-based products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 171,
+   "GroupNameDK": "Friske bælgplanter",
+   "GroupNameUK": "Fresh legumes",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 172,
+   "GroupNameDK": "Frosne bælgplanter",
+   "GroupNameUK": "Frozen legumes",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 173,
+   "GroupNameDK": "Tørrede bælgplanter",
+   "GroupNameUK": "Dried pulses",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 174,
+   "GroupNameDK": "Konserves af bælgplanter",
+   "GroupNameUK": "Canned legumes",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 175,
+   "GroupNameDK": "Andre produkter af bælgplanter",
+   "GroupNameUK": "Other legume products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 170,
+   "ParantFoodGroupNavn": "Bælgplanter og produkter af bælgplanter",
+   "ParantFoodGroupName": "Legumes and legume products",
+   "FoodGroupID": 191,
+   "GroupNameDK": "Tilberedte bælgfrugter",
+   "GroupNameUK": "Prepared legumes",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 176,
+   "ParantFoodGroupNavn": "Nødder og fedtrige frø",
+   "ParantFoodGroupName": "Nuts and high-fat seeds",
+   "FoodGroupID": 53,
+   "GroupNameDK": "Nødder",
+   "GroupNameUK": "Nuts",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 176,
+   "ParantFoodGroupNavn": "Nødder og fedtrige frø",
+   "ParantFoodGroupName": "Nuts and high-fat seeds",
+   "FoodGroupID": 177,
+   "GroupNameDK": "Fedtrige frø",
+   "GroupNameUK": "High-fat seeds",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 176,
+   "ParantFoodGroupNavn": "Nødder og fedtrige frø",
+   "ParantFoodGroupName": "Nuts and high-fat seeds",
+   "FoodGroupID": 178,
+   "GroupNameDK": "Nøddeprodukter",
+   "GroupNameUK": "Nut products",
+   "Hieraky": 3
+ },
+ {
+   "ParantFoodGroupID": 176,
+   "ParantFoodGroupNavn": "Nødder og fedtrige frø",
+   "ParantFoodGroupName": "Nuts and high-fat seeds",
+   "FoodGroupID": 189,
+   "GroupNameDK": "Produkter af fedtrige frø",
+   "GroupNameUK": "High-fat seeds products",
+   "Hieraky": 3
+ }
+]
