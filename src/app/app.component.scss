@@ -1,0 +1,14 @@
+.app {
+    display: grid;
+    grid-template-columns: 150px auto;
+    height: 100vh;
+
+    nav, main {
+        height: 100%;
+    }
+
+    main {
+        overflow: auto;
+    }
+
+}
