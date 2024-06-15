@@ -7,7 +7,7 @@
         display: flex;
     }
 
-    position: static;
+    position: relative;
     flex-direction: column;
     background: $FC-white;
     gap: 20px;
@@ -60,6 +60,7 @@
 
             &.active {
                 background: $FC-green;
+                color: $FC-white;
             }
 
             &:hover {
@@ -119,6 +120,7 @@
             align-items: center;
             font-size: .8em;
             color: $FC-grey;
+            flex-basis: 20%;
             i {
                 font-size: 2.5em;
             }
@@ -132,7 +134,6 @@
         .navbar-center-item {
             i {
                 font-size: 3.5em;
-                z-index: 1;
             }
             margin-top: -1em;
 
@@ -144,6 +145,7 @@
                 position: absolute;
                 top: -1.5em;
                 background-color: $FC-white;
+                z-index: -1;
             }
 
         }
