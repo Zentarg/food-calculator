@@ -1,11 +1,8 @@
 <div class="sidebar">
-    <h1 class="title"><span class="word-1">Food</span> <span class="word-2">Calculator</span></h1>
+    <h4>Food Calculator</h4>
     <ul class="sidebar-items">
         <li class="sidebar-item" *ngFor="let item of sidebarItems">
-            <i class="bi bi-{{item.IconName}}"></i>
-            <span>
-                {{ 'SIDEBAR.' + item.LocaleLink | translate}}
-            </span>
+            {{item}}
         </li>
     </ul>
 </div>
