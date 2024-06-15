@@ -1,13 +1,13 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { DataService } from './core/services/data.service';
-import { SidebarComponent } from './core/components/sidebar/sidebar.component';
+import { NavbarComponent } from './core/components/navbar/navbar.component';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, SidebarComponent, TranslateModule],
+  imports: [RouterOutlet, NavbarComponent, TranslateModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

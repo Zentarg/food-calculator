@@ -1,19 +1,19 @@
 import { NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { SidebarItem } from '@app/core/models/UIModels/SidebarItem';
+import { NavbarItem } from '@app/core/models/UIModels/NavbarItem';
 import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
-  selector: 'app-sidebar',
+  selector: 'app-navbar',
   standalone: true,
   imports: [NgFor, TranslateModule, RouterLink],
-  templateUrl: './sidebar.component.html',
-  styleUrl: './sidebar.component.scss'
+  templateUrl: './navbar.component.html',
+  styleUrl: './navbar.component.scss'
 })
-export class SidebarComponent {
+export class NavbarComponent {
 
-  sidebarItems: SidebarItem[] = [
+  sidebarItems: NavbarItem[] = [
     {
       LocaleLink: "DIARY",
       IconName: "journal-check",

@@ -2,7 +2,7 @@
     "HOME": {
         "TITLE": "Hello Test"
     },
-    "SIDEBAR": {
+    "NAVBAR": {
         "TITLE1": "Food",
         "TITLE2": "Calculator",
         "DIARY": "Logbog",
