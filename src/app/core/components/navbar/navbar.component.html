@@ -1,7 +1,7 @@
 <div class="sidebar">
     <h1 class="title"><span class="word-1">Food</span> <span class="word-2">Calculator</span></h1>
     <ul class="navbar-items">
-        <li class="navbar-item" *ngFor="let item of navbarItems">
+        <li class="navbar-item" *ngFor="let item of navbarItems" [routerLink]="item.routerLink" routerLinkActive="active">
             <i class="bi bi-{{item.IconName}}"></i>
             <span>
                 {{ 'NAVBAR.' + item.LocaleLink | translate}}
@@ -12,7 +12,19 @@
 
 <div class="bottombar">
     <ul class="navbar-items">
-        <li class="navbar-item" *ngFor="let item of navbarItems">
+        <li class="navbar-item" *ngFor="let item of leftMobileNavItems" [routerLink]="item.routerLink" routerLinkActive="active">
+            <i class="bi bi-{{item.IconName}}"></i>
+            <span>
+                {{ 'NAVBAR.' + item.LocaleLink | translate}}
+            </span>
+        </li>
+        <li class="navbar-item navbar-center-item" [routerLink]="centerMobileNavItem.routerLink" routerLinkActive="active">
+            <i class="bi bi-{{centerMobileNavItem.IconName}}"></i>
+            <span>
+                {{ 'NAVBAR.' + centerMobileNavItem.LocaleLink | translate}}
+            </span>
+        </li>
+        <li class="navbar-item" *ngFor="let item of rightMobileNavItems" [routerLink]="item.routerLink" routerLinkActive="active">
             <i class="bi bi-{{item.IconName}}"></i>
             <span>
                 {{ 'NAVBAR.' + item.LocaleLink | translate}}

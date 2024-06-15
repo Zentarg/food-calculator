@@ -6,6 +6,7 @@
         "TITLE1": "Food",
         "TITLE2": "Calculator",
         "DIARY": "Logbog",
-        "STATISTICS": "Statistik"
+        "STATISTICS": "Statistik",
+        "SETTINGS": "Indstillinger"
     }
 }
