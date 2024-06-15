@@ -1,7 +1,32 @@
+@use 'variables' as *;
+
 /* You can add global styles to this file, and also import other style files */
+
+* {
+    font-family: $FC-font;
+}
 
 body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    background: $FC-white;
+    color: $FC-light-black;
+}
+
+.btn {
+    font-weight: 700;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+    &.green {
+        background: $FC-green;
+    }
+
+    &.grey {
+        background: $FC-light-grey;
+    }
+
 }
