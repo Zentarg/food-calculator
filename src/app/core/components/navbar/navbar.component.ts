@@ -13,7 +13,7 @@ import { TranslateModule } from '@ngx-translate/core';
 })
 export class NavbarComponent {
 
-  sidebarItems: NavbarItem[] = [
+  navbarItems: NavbarItem[] = [
     {
       LocaleLink: "DIARY",
       IconName: "journal-check",

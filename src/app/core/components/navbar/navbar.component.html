@@ -1,7 +1,18 @@
 <div class="sidebar">
     <h1 class="title"><span class="word-1">Food</span> <span class="word-2">Calculator</span></h1>
-    <ul class="sidebar-items">
-        <li class="sidebar-item" *ngFor="let item of sidebarItems">
+    <ul class="navbar-items">
+        <li class="navbar-item" *ngFor="let item of navbarItems">
+            <i class="bi bi-{{item.IconName}}"></i>
+            <span>
+                {{ 'NAVBAR.' + item.LocaleLink | translate}}
+            </span>
+        </li>
+    </ul>
+</div>
+
+<div class="bottombar">
+    <ul class="navbar-items">
+        <li class="navbar-item" *ngFor="let item of navbarItems">
             <i class="bi bi-{{item.IconName}}"></i>
             <span>
                 {{ 'NAVBAR.' + item.LocaleLink | translate}}
