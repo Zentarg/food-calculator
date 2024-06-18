@@ -1,0 +1,22 @@
+<div class="water-intake">
+    <div class="header">
+        <span class="title">
+            {{localization_path + 'TITLE' | translate}}
+        </span>
+        <span class="amount">
+            {{form.get('Water')?.value}} L
+        </span>
+    </div>
+    <div class="water-count">
+        @for (value of droplets; track $index) {
+            <div class="droplet" (click)="ToggleDroplets($index)">
+                <ng-container *ngIf="value">
+                    <i class="bi bi-droplet-fill"></i>
+                </ng-container>
+                <ng-container *ngIf="!value">
+                    <i class="bi bi-droplet"></i>
+                </ng-container>
+            </div>
+        }
+    </div>
+</div>
