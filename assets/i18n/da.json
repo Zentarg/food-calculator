@@ -1,0 +1,17 @@
+{
+    "HOME": {
+        "TITLE": "Hello Test"
+    },
+    "NAVBAR": {
+        "TITLE1": "Food",
+        "TITLE2": "Calculator",
+        "DIARY": "Logbog",
+        "STATISTICS": "Statistik",
+        "SETTINGS": "Indstillinger"
+    },
+    "DIARY": {
+        "WATER_INTAKE": {
+            "TITLE": "Vand"
+        }
+    }
+}
