@@ -1,0 +1,26 @@
+@use 'variables' as *;
+@use 'mixins' as *;
+
+.diary {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: stretch;
+
+    .day {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        align-items: stretch;
+
+        .food {
+            
+            // @include for-size(tablet-landscape-up) {
+            //     flex-direction: row;
+            // }
+        }
+
+
+    }
+
+}

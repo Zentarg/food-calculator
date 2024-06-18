@@ -8,5 +8,10 @@
         "DIARY": "Logbog",
         "STATISTICS": "Statistik",
         "SETTINGS": "Indstillinger"
+    },
+    "DIARY": {
+        "WATER_INTAKE": {
+            "TITLE": "Vand"
+        }
     }
 }

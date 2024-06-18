@@ -1,4 +1,5 @@
 @use 'mixins' as *;
+@use 'variables' as *;
 .app {
     display: grid;
     grid-template-columns: 102.5px auto;
@@ -7,6 +8,7 @@
     height: 100vh;
 
     row-gap: 2em;
+    background: $FC-light-grey;
 
     nav {
         @include for-size(tablet-landscape-up) {
