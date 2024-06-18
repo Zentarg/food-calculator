@@ -1,8 +1,9 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, OnInit } from '@angular/core';
+import { NavigationEnd, Router, RouterOutlet } from '@angular/router';
 import { DataService } from './core/services/data.service';
 import { NavbarComponent } from './core/components/navbar/navbar.component';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
+import { filter } from 'rxjs';
 
 @Component({
   selector: 'app-root',
@@ -11,10 +12,10 @@ import { TranslateModule, TranslateService } from '@ngx-translate/core';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
-export class AppComponent {
+export class AppComponent implements OnInit{
   title = 'food-calculator';
 
-  constructor(private translate: TranslateService, private dataService: DataService) {
+  constructor(private translate: TranslateService, private dataService: DataService, private router: Router) {
     this.translate.setDefaultLang("da");
     this.translate.use("da");
 
@@ -38,5 +39,14 @@ export class AppComponent {
     })
 
     this.dataService.foodData$.pipe()
+  }
+  ngOnInit(): void {
+    this.router.events.pipe(
+      filter((event) => event instanceof NavigationEnd)
+    ).subscribe((event) => {
+      if (document.activeElement instanceof HTMLElement) {
+        document.activeElement.blur();
+      }
+    })
   }
 }
