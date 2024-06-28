@@ -12,6 +12,12 @@
     "DIARY": {
         "WATER_INTAKE": {
             "TITLE": "Vand"
+        },
+        "FOOD_INTAKE": {
+            "BREAKFAST": "Morgenmad",
+            "LUNCH": "Frokost",
+            "DINNER": "Aftensmad",
+            "SNACKS": "Snacks"
         }
     }
 }
