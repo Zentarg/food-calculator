@@ -8,8 +8,12 @@
             <div class="water">
                 <app-water-intake></app-water-intake>
             </div>
-            <div class="food">food</div>
+            <div class="food">
+                <app-food-intake class="food-column" [formControl]="breakfast" headingTextId="BREAKFAST"></app-food-intake>
+                <app-food-intake class="food-column" [formControl]="lunch" headingTextId="LUNCH"></app-food-intake>
+                <app-food-intake class="food-column" [formControl]="dinner" headingTextId="DINNER"></app-food-intake>
+                <app-food-intake class="food-column" [formControl]="snacks" headingTextId="SNACKS"></app-food-intake>
+            </div>
         </div>
     </div>
 </div>
-
