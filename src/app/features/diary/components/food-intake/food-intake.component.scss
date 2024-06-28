@@ -1,0 +1,88 @@
+@use 'variables' as *;
+@use 'mixins' as *;
+
+.food-intake {
+    background: $FC-white;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 10px;
+
+    @include for-size(tablet-landscape-up) {
+        padding: 1rem 1.5rem;
+    }
+
+
+    .add {
+        font-size: 2em;
+        background: $FC-light-grey;
+        border-radius: 50%;
+        width: 1em;
+        height: 1em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .food {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: .5em;
+        .content {
+            display: flex;
+            flex-direction: column;
+            gap: 1em;
+    
+            .header {
+                font-weight: 700;
+            }
+    
+            .body {
+                display: flex;
+                flex-flow: row wrap;
+                gap: .2em;
+    
+                .food-item {
+                    font-size: .8em;
+                    font-weight: 550;
+                    color: $FC-faded-black;
+                }
+                .divider {
+                    color: $FC-grey;
+                }
+                
+                @include for-size(tablet-landscape-up) {
+                    flex-flow: column;
+                    .divider {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+
+    > .divider {
+        width: 100%;
+        border: 1px solid $FC-light-grey;
+    }
+
+    .nutritions {
+        display: flex;
+        flex-direction: row wrap;
+        font-size: .7em;
+        color: $FC-faded-black;
+        font-weight: 550;
+        justify-content: space-evenly;
+
+        .nutrition {
+            display: flex;
+            flex-direction: column;
+            gap: .1em;
+            align-items: center;
+        }
+    }
+
+
+}

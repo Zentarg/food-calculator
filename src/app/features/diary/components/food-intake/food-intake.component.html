@@ -1,0 +1,53 @@
+<div class="food-intake">
+    <div class="food">
+        <div class="content">
+            <div class="header">
+                {{localization_path + headingTextId | translate}}
+            </div>
+            <div class="body">
+                @for (item of foodItems; track $index) {
+                    <div class="food-item">
+                        {{item[0].FoodNameDa}} ({{item[1]}}g)
+                    </div>
+                    <div class="divider" *ngIf="$index != foodItems.length - 1"><i class="bi bi-dot"></i></div>
+                }
+            </div>
+        </div>
+        <div class="add" (click)="openAddFoodModal()"><i class="bi bi-plus"></i></div>
+    </div>
+    <div class="divider"></div>
+    <div class="nutritions">
+        <div class="nutrition">
+            <span>
+                {{totalCalories}}
+            </span>
+            <span>
+                Kalorier
+            </span>
+        </div>
+        <div class="nutrition">
+            <span>
+                {{totalCarbohydrates}}g
+            </span>
+            <span>
+                Kulhydrater
+            </span>
+        </div>
+        <div class="nutrition">
+            <span>
+                {{totalProtein}}g
+            </span>
+            <span>
+                Protein
+            </span>
+        </div>
+        <div class="nutrition">
+            <span>
+                {{totalFat}}g
+            </span>
+            <span>
+                Fedt
+            </span>
+        </div>
+    </div>
+</div>

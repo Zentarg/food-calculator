@@ -14,10 +14,19 @@
         align-items: stretch;
 
         .food {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
             
-            // @include for-size(tablet-landscape-up) {
-            //     flex-direction: row;
-            // }
+            @include for-size(tablet-landscape-up) {
+                flex-direction: row;
+
+                .food-column {
+                    flex-basis: 20%;
+                    flex-grow: 1;
+                    flex-shrink: 0;
+                }
+            }
         }
 
 
